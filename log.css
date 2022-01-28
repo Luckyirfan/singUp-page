@@ -1,0 +1,28 @@
+body{
+    background-image: url(./img.jpg);
+}
+.fom{
+    background-color: coral;
+    width: 1000px;
+    height: 700px;
+    text-align: center;
+    margin-left:  160px;
+    font-size: 25px;
+    padding-top: 50px;
+    color: rgb(255, 230, 4);
+    border-radius: 30px;
+}
+input{
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+
+}
+#Sub{
+    margin: 20px;
+    background-color: rgb(119, 2, 64);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 5px;
+}
